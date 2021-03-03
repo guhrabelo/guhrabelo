@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   
   
   <p align="left">
-- 🌱 I’m currently learning **everything I can**  
+- 🌱 I’m currently learning everything I can
   <p align="left">
-- 📫 How to reach me **gustavo.rabelo.teles01@gmail.com**  
+- 📫 How to reach me gustavo.rabelo.teles01@gmail.com
   <p align="left">
-- ⚡ Fun fact **I love comics and everything that involves 9th art**  
+- ⚡ Fun fact I love comics and everything that involves 9th art
 
   
 <h3 align="left">Connect with me:</h3>  
