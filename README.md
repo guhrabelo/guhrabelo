@@ -36,11 +36,11 @@ Here are some ideas to get you started:
   
  
  
- <p align="center"> 
+ <p align="left"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guhrabelo&show_icons=true&theme=dark" /> 
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhrabelo&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </p>
 
