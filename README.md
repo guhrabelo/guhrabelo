@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
+
 <h1 align="left">Hi, I'm Gustavo Rabelo 🙃</h1>  
 <h3 align="left">living in São Paulo since 1994</h3>  
   
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me gustavo.rabelo.teles01@gmail.com
   <p align="left">
 - ⚡ Fun fact I love comics and everything that involves 9th art
-
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
@@ -36,18 +36,16 @@ Here are some ideas to get you started:
   
  
  
- <p align="left"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guhrabelo&show_icons=true&theme=dark" /> 
+ <p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guhrabelo&show_icons=true&theme=dark" /> 
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhrabelo&show_icons=true&locale=en&layout=compact&theme=dark"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhrabelo&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </p>
 
 
-<p >
+<center>
   
-![enter image description here](https://media.giphy.com/media/8GIrp9PyxMHbq/giphy.gif) </p>
-
-
+![spider-man](https://media.giphy.com/media/8GIrp9PyxMHbq/giphy.gif) </center>
 
