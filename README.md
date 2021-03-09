@@ -36,10 +36,18 @@ Here are some ideas to get you started:
   
  
  
- <p> 
+ <p align="left"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=guhrabelo&show_icons=true&theme=dark" /> 
 </p>
 
-<p>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guhrabelo&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </p>
+
+
+<p >
+  
+![enter image description here](https://media.giphy.com/media/8GIrp9PyxMHbq/giphy.gif) </p>
+
+
+
